@@ -2,4 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Javier Vicente**, Git lover
+**Javier Vicente**, Git & Larry Plotter lover
+
